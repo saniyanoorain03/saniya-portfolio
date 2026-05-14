@@ -23,7 +23,7 @@ function Contact() {
             </span>{" "}
 
             <a
-              href="mailto:saniya431@gmail.com"
+              href="mailto:saniyad31@gmail.com"
               className="hover:text-[#C6A87D] transition"
             >
               saniya431@gmail.com
