@@ -25,25 +25,34 @@ function Hero() {
           </p>
 
           <div className="flex gap-4 mt-8">
+
             <button className="bg-[#C6A87D] text-black px-6 py-3 rounded-xl font-medium hover:scale-105 transition duration-300">
               View Projects
             </button>
 
-            <button className="border border-[#C6A87D] text-[#C6A87D] px-6 py-3 rounded-xl hover:bg-[#C6A87D] hover:text-black transition duration-300">
+            <a
+              href="/resume.pdf"
+              download
+              className="border border-[#C6A87D] text-[#C6A87D] px-6 py-3 rounded-xl hover:bg-[#C6A87D] hover:text-black transition duration-300"
+            >
               Download Resume
-            </button>
+            </a>
+
           </div>
         </div>
 
         <div className="flex justify-center">
           <div className="w-[320px] h-[320px] rounded-full overflow-hidden border-4 border-[#C6A87D] shadow-2xl shadow-[#C6A87D]/20">
+
             <img
               src={profile}
               alt="Saniya"
               className="w-full h-full object-cover"
             />
+
           </div>
         </div>
+
       </div>
     </section>
   )
