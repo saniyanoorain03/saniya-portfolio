@@ -1,7 +1,19 @@
+import Navbar from './sections/Navbar'
+import Hero from './sections/Hero'
+import About from './sections/About'
+import Skills from './sections/Skills'
+import Projects from './sections/Projects'
+import Contact from './sections/Contact'
+
 function App() {
   return (
     <div>
-      <h1>Hello Saniya</h1>
+      <Navbar />
+      <Hero />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
     </div>
   )
 }
