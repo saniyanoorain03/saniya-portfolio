@@ -12,7 +12,7 @@ function Contact() {
         </p>
 
         <div className="space-y-4 text-gray-300">
-          <p>Email: saniya431@gmail.com</p>
+          <p>Email: saniyad31@gmail.com</p>
 
           <p>
             GitHub: github.com/saniyanoorain03
