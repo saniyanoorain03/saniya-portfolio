@@ -32,6 +32,28 @@ function Projects() {
           </p>
         </div>
 
+        <div className="border border-yellow-200 rounded-2xl p-6">
+          <h2 className="text-2xl font-semibold mb-3">
+            AI Story Generator
+          </h2>
+
+          <p className="text-gray-300">
+            AI-powered storytelling platform that generates
+            creative and personalized stories dynamically.
+          </p>
+        </div>
+
+        <div className="border border-yellow-200 rounded-2xl p-6">
+          <h2 className="text-2xl font-semibold mb-3">
+            Contact Manager
+          </h2>
+
+          <p className="text-gray-300">
+            CRUD-based contact management system using
+            MERN stack with organized data handling.
+          </p>
+        </div>
+
       </div>
     </section>
   )
