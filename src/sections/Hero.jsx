@@ -15,7 +15,7 @@ function Hero() {
           </h1>
 
           <h2 className="text-2xl md:text-3xl mt-4 text-gray-300">
-            Full Stack & AI Enthusiast
+            Full Stack MERN Developer 
           </h2>
 
           <p className="mt-6 text-gray-400 leading-relaxed max-w-xl">

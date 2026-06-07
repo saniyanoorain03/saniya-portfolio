@@ -34,12 +34,13 @@ function Projects() {
 
         <div className="border border-yellow-200 rounded-2xl p-6">
           <h2 className="text-2xl font-semibold mb-3">
-            AI Story Generator
+            ProductHub
           </h2>
 
           <p className="text-gray-300">
-            AI-powered storytelling platform that generates
-            creative and personalized stories dynamically.
+            MERN Stack Product Management System with CRUD
+            operations, inventory management, REST API
+            integration, and MongoDB database management.
           </p>
         </div>
 
