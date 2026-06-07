@@ -19,9 +19,12 @@ function Hero() {
           </h2>
 
           <p className="mt-6 text-gray-400 leading-relaxed max-w-xl">
-            I build modern web applications, AI-powered tools,
-            and meaningful digital experiences using MERN,
-            Flask, and NLP technologies.
+            <p className="mt-6 text-gray-400 leading-relaxed max-w-xl">
+  I build modern and responsive web applications
+  using MongoDB, Express.js, React.js, and Node.js.
+  Passionate about creating scalable and user-friendly
+  full-stack solutions.
+</p>
           </p>
 
           <div className="flex gap-4 mt-8">
